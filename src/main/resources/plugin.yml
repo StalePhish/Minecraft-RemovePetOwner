@@ -1,0 +1,7 @@
+name: RemovePetOwner
+version: ${project.version}
+main: org.candrews.removePetOwner.RemovePetOwner
+api-version: '1.21'
+authors: [ StalePhish ]
+description: Minecraft Spigot plugin that lets players use shears to remove ownership of their tamed animals.
+website: http://www.candrews.org
